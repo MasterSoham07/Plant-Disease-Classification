@@ -20,7 +20,9 @@ To run this project, you need to have Python installed. You can install the requ
 
 ```bash
 pip install -r requirements.txt
+```
 
+## Web App
 
 The app.py file contains the Streamlit web application for the project. It allows users to upload images of plants and get predictions about potential diseases. The app provides a user-friendly interface for interacting with the trained model and viewing results.
 
@@ -32,3 +34,19 @@ Execute the following command:
 
 ```bash
 streamlit run app.py
+```
+
+## Usage
+
+1. Open the web app in your browser.
+2. Upload an image of a plant from the test set.
+3. View the predicted disease.
+
+## Contributing
+
+If you'd like to contribute to this project, please fork the repository and submit a pull request. Any improvements, bug fixes, or additional features are welcome!
+
+## Acknowledgements
+
+- The dataset was provided by Kaggle.
+- Thanks to the contributors and developers of the tools and libraries used in this project.
