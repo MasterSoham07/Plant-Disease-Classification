@@ -33,8 +33,17 @@ To run the web app:
 - Execute the following command:
 
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
+
+![Home Page Image](home_page.png)
+
+![About Page Image](about_page.png)
+
+![Disease Recognition Page Image](disease_recognition_page.png)
+
+
+
 
 ## Usage
 
