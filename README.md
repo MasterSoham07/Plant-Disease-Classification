@@ -28,9 +28,9 @@ The app.py file contains the Streamlit web application for the project. It allow
 
 To run the web app:
 
-Open a terminal window.
+- Open a terminal window.
 
-Execute the following command:
+- Execute the following command:
 
 ```bash
 streamlit run app.py
