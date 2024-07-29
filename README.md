@@ -13,3 +13,22 @@ The dataset used in this project has been obtained from [Kaggle](https://www.kag
 - `train`: Contains training images.
 - `valid`: Contains validation images.
 - `test`: Contains testing images.
+
+## Installation
+
+To run this project, you need to have Python installed. You can install the required packages using the following command:
+
+```bash
+pip install -r requirements.txt
+
+
+The app.py file contains the Streamlit web application for the project. It allows users to upload images of plants and get predictions about potential diseases. The app provides a user-friendly interface for interacting with the trained model and viewing results.
+
+To run the web app:
+
+Open a terminal window.
+
+Execute the following command:
+
+```bash
+streamlit run app.py
