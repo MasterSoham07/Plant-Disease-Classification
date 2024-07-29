@@ -50,7 +50,7 @@ elif app_mode == "About":
     st.header("About Us")
     st.markdown("""
     #### About Dataset
-    This dataset is recreated using offline augmentation from the original dataset. The original dataset can be found on this [GitHub repo](https://github.com/username/repo).
+    This dataset is recreated using offline augmentation from the original dataset. The original dataset can be found on this [GitHub repo](https://github.com/MasterSoham07/Plant-Disease-Classification).
     
     This dataset consists of about 87K RGB images of healthy and diseased crop leaves, categorized into 38 different classes. The total dataset is divided into an 80/20 ratio of training and validation set, preserving the directory structure.
     
